@@ -8,3 +8,5 @@ Tonkatsu:
 - Bread Crumbs
 - Cornstarch
 - Oil
+- Lettuce
+- Tonkatsu Sauce
